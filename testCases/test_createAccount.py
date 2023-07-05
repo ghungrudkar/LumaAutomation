@@ -12,4 +12,4 @@ driver.find_element(By.NAME,"email").send_keys("lukeshade@gmail.com")
 driver.find_element(By.XPATH,"//input[@id='password']").send_keys("Test@123")
 driver.find_element(By.ID,"password-confirmation").send_keys("Test@123")
 driver.find_element(By.XPATH,"//button[@class='action submit primary']").click()
-
+driver.close()
