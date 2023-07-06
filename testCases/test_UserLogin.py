@@ -2,9 +2,21 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from pageObject.UserLogin_Page import UserLoginClass
+
+class Test_UserLogin:
+    def test_login_002(self,setup):
+        self.driver = setup
+        self.lp = UserLoginClass(self.driver)
+        self.lp.link_userlogin()
+        self.lp.email("lukeshade@gamil.com")
+        self.lp.password("Test@123")
+        self.lp.signin_button()
+
+
+
 
 driver=webdriver.Firefox()
-
 driver.get("https://magento.softwaretestingboard.com/")
 driver.maximize_window()
 driver.find_element(By.XPATH,"//div[@class='panel header']//li[@data-label='or']").click()
