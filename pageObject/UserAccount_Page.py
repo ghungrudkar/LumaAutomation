@@ -15,7 +15,7 @@ class UserRegistrationClass:
     # driver.find_element(By.ID, "lastname").send_keys("Ade")
     textBoxEmail_NAME = (By.NAME, "email")
     # driver.find_element(By.NAME, "email").send_keys("lukeshade@gmail.com")
-    textBoxPassword_XPATH  = (By.XPATH, "//input[@id='password']")
+    textBoxPassword_XPATH = (By.XPATH, "//input[@id='password']")
     # driver.find_element(By.XPATH, "//input[@id='password']").send_keys("Test@123")
     textBoxConfirmPassword_ID = (By.ID, "password-confirmation")
     # driver.find_element(By.ID, "password-confirmation").send_keys("Test@123")
@@ -31,21 +31,17 @@ class UserRegistrationClass:
     def firstname(self, firstname):
         self.driver.find_element(*UserRegistrationClass.textBoxFirstname_ID).send_keys(firstname)
 
-    def lastname(self,lastname):
+    def lastname(self, lastname):
         self.driver.find_element(*UserRegistrationClass.textBoxLastname_ID).send_keys(lastname)
 
-    def email(self,email):
+    def email(self, email):
         self.driver.find_element(*UserRegistrationClass.textBoxEmail_NAME).send_keys(email)
 
-    def password(self,password):
+    def password(self, password):
         self.driver.find_element(*UserRegistrationClass.textBoxPassword_XPATH).send_keys(password)
 
-    def confirm_password(self,confirm_password):
+    def confirm_password(self, confirm_password):
         self.driver.find_element(*UserRegistrationClass.textBoxConfirmPassword_ID).send_keys(confirm_password)
 
     def submit_button(self):
         self.driver.find_element(*UserRegistrationClass.buttonSubmit_XPATH).click()
-
-    def generate_random_username(self):
-        username = ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(8))
-        return username
