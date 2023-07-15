@@ -1,3 +1,5 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -13,6 +15,7 @@ class UserLoginClass:
     # driver.find_element(By.ID, "send2").click()
     buttonLogout1_CSS_SELECTOR = (By.CSS_SELECTOR, "div[class='panel header'] button[type='button']")
     buttonLogout_CSS_SELECTOR = (By.CSS_SELECTOR, "div[aria-hidden='false'] li[data-label='or'] a")
+    status_CSS_SELECTOR = (By.CSS_SELECTOR, "div[class='panel header'] li[class='greet welcome']")
 
     def __init__(self, driver):
         self.driver = driver
@@ -31,4 +34,8 @@ class UserLoginClass:
 
     def sign_out(self):
         self.driver.find_element(*UserLoginClass.buttonLogout1_CSS_SELECTOR).click()
+        time.sleep(3)
         self.driver.find_element(*UserLoginClass.buttonLogout_CSS_SELECTOR).click()
+
+    def status(self):
+        self.driver.find_element(*UserLoginClass.status_CSS_SELECTOR).is_displayed()

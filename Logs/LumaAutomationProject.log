@@ -105,3 +105,513 @@
 07/12/2023 03:09:33 PM |      INFO | test_login_DDT.py:30 | entering username
 07/12/2023 03:09:33 PM |      INFO | test_login_DDT.py:32 | entering password
 07/12/2023 03:09:35 PM |      INFO | test_login_DDT.py:34 | Clicking on submit button
+07/13/2023 12:09:36 PM |      INFO | test_login_DDT.py:14 | Test_login_DDT_003 is starting 
+07/13/2023 12:09:36 PM |      INFO | test_login_DDT.py:15 | Verifying Test_login_DDT_003
+07/13/2023 12:09:41 PM |      INFO | test_login_DDT.py:27 | Clicking on login link
+07/13/2023 12:09:41 PM |      INFO | test_login_DDT.py:29 | entering username
+07/13/2023 12:09:41 PM |      INFO | test_login_DDT.py:31 | entering password
+07/13/2023 12:09:43 PM |      INFO | test_login_DDT.py:33 | Clicking on submit button
+07/13/2023 12:13:06 PM |      INFO | test_login_DDT.py:14 | Test_login_DDT_003 is starting 
+07/13/2023 12:13:06 PM |      INFO | test_login_DDT.py:15 | Verifying Test_login_DDT_003
+07/13/2023 12:13:11 PM |      INFO | test_login_DDT.py:27 | Clicking on login link
+07/13/2023 12:13:11 PM |      INFO | test_login_DDT.py:29 | entering username
+07/13/2023 12:13:11 PM |      INFO | test_login_DDT.py:31 | entering password
+07/13/2023 12:13:14 PM |      INFO | test_login_DDT.py:33 | Clicking on submit button
+07/13/2023 01:02:23 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:02:23 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:02:28 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:02:28 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:02:28 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:02:31 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:04:29 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:04:29 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:04:35 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:04:35 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:04:35 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:04:37 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:07:55 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:07:55 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:08:00 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:08:00 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:08:00 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:08:03 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:08:05 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:08:05 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:08:05 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:08:07 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:08:08 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:08:08 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:08:08 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:08:11 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:08:12 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:08:12 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:08:12 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:08:15 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:08:15 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/13/2023 01:09:14 PM |      INFO | test_UserLogin.py:13 | UserLogin_test_002 start
+07/13/2023 01:09:14 PM |      INFO | test_UserLogin.py:15 | Opening Browser
+07/13/2023 01:09:24 PM |      INFO | test_UserLogin.py:17 | invoking the url
+07/13/2023 01:09:26 PM |      INFO | test_UserLogin.py:20 | Clicking link
+07/13/2023 01:09:26 PM |      INFO | test_UserLogin.py:22 | Entering Username
+07/13/2023 01:09:26 PM |      INFO | test_UserLogin.py:24 | Entering password
+07/13/2023 01:09:28 PM |      INFO | test_UserLogin.py:26 | Clicking on Signin Button
+07/13/2023 01:09:34 PM |      INFO | test_UserLogin.py:28 | Clicking on sign out Button
+07/13/2023 01:09:34 PM |      INFO | test_UserLogin.py:35 | Testcases test_login_002 is fail
+07/13/2023 01:09:45 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:09:45 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:09:52 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:09:52 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:09:52 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:09:54 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:10:51 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:10:51 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:10:56 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:10:56 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:10:56 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:10:58 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:11:00 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:11:00 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:11:00 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:11:02 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:11:04 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:11:04 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:11:04 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:11:07 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:11:09 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:11:09 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:11:09 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:11:12 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:11:12 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/13/2023 01:12:07 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:12:07 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:12:12 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:12:12 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:12:12 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:12:15 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:12:16 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:12:16 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:12:16 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:12:19 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:12:20 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:12:20 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:12:20 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:12:23 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:12:25 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:12:25 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:12:25 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:12:26 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:12:26 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/13/2023 01:13:34 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:13:34 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:13:40 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:13:40 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:13:40 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:13:43 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:13:44 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:13:44 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:13:44 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:13:47 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:13:49 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:13:49 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:13:49 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:13:50 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:13:52 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:13:52 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:13:52 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:13:52 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:13:52 PM |      INFO | test_login_DDT.py:74 | Testcases test_login_DDT_003 is passed
+07/13/2023 01:23:11 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:23:11 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:23:16 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:23:16 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:23:16 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:23:18 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:23:19 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:23:19 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:23:19 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:23:22 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:23:24 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:23:24 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:23:24 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:23:25 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:23:27 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:23:27 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:23:27 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:23:27 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:23:27 PM |      INFO | test_login_DDT.py:78 | Testcases test_login_DDT_003 is passed
+07/13/2023 01:35:03 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/13/2023 01:35:03 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/13/2023 01:35:08 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:35:08 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:35:08 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:35:11 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:35:12 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:35:12 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:35:12 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:35:15 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:35:17 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:35:17 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:35:17 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:35:17 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:35:19 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/13/2023 01:35:20 PM |      INFO | test_login_DDT.py:33 | entering username
+07/13/2023 01:35:20 PM |      INFO | test_login_DDT.py:35 | entering password
+07/13/2023 01:35:23 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/13/2023 01:35:23 PM |      INFO | test_login_DDT.py:80 | Testcases test_login_DDT_003 is passed
+07/13/2023 07:17:55 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 07:17:55 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 07:17:55 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 07:18:13 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 07:18:13 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 07:18:13 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 07:18:32 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 07:18:32 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 07:18:32 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 07:18:50 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 07:18:50 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 07:18:50 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:07:52 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:07:52 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:07:52 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:08:16 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:08:16 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:08:16 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:14:02 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:14:02 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:14:02 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:14:14 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:14:14 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:14:14 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:14:26 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:14:26 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:14:26 PM |      INFO | test_login_param.py:12 | Opening url
+07/13/2023 08:14:38 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/13/2023 08:14:38 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/13/2023 08:14:38 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:27:03 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:27:03 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:27:03 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:27:19 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:27:19 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:27:19 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:27:36 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:27:36 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:27:36 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:27:54 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:27:54 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:27:54 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:32:49 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:32:49 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:32:49 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:33:02 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:33:02 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:33:02 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:33:14 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:33:14 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:33:14 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:33:26 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:33:26 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:33:26 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:35:36 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:35:36 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:35:36 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:35:48 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:35:48 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:35:48 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:36:00 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:36:00 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:36:00 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 06:36:11 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/14/2023 06:36:11 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/14/2023 06:36:11 PM |      INFO | test_login_param.py:12 | Opening url
+07/14/2023 07:39:45 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/14/2023 07:39:45 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/14/2023 07:39:54 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/14/2023 07:39:55 PM |      INFO | test_login_DDT.py:33 | entering username
+07/14/2023 07:39:55 PM |      INFO | test_login_DDT.py:35 | entering password
+07/14/2023 07:39:57 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/14/2023 07:41:59 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/14/2023 07:41:59 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/14/2023 07:42:04 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/14/2023 07:42:04 PM |      INFO | test_login_DDT.py:33 | entering username
+07/14/2023 07:42:05 PM |      INFO | test_login_DDT.py:35 | entering password
+07/14/2023 07:42:07 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/14/2023 07:43:35 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/14/2023 07:43:35 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/14/2023 07:43:39 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/14/2023 07:43:39 PM |      INFO | test_login_DDT.py:33 | entering username
+07/14/2023 07:43:39 PM |      INFO | test_login_DDT.py:35 | entering password
+07/14/2023 07:43:41 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/14/2023 08:05:03 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/14/2023 08:05:03 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/14/2023 08:05:10 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/14/2023 08:05:10 PM |      INFO | test_login_DDT.py:33 | entering username
+07/14/2023 08:05:10 PM |      INFO | test_login_DDT.py:35 | entering password
+07/14/2023 08:05:12 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/14/2023 08:05:13 PM |      INFO | test_login_DDT.py:73 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:32:26 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 04:32:26 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 04:32:32 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:32:32 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:32:32 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:32:35 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:32:36 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:32:36 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:32:36 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:32:38 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:32:39 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:32:40 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:32:40 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:32:42 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:32:44 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:32:44 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:32:44 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:32:45 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:32:45 PM |      INFO | test_login_DDT.py:74 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:32:47 PM |      INFO | test_login_DDT.py:82 | End of Login DDT Test
+07/15/2023 04:32:47 PM |      INFO | test_login_DDT.py:83 | Completed test_Login_DDT_003) 
+07/15/2023 04:34:28 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 04:34:28 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 04:34:34 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:34:35 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:34:35 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:34:37 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:34:38 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:34:39 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:34:39 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:34:41 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:34:42 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:34:42 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:34:43 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:34:45 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:34:47 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:34:47 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:34:47 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:34:49 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:34:49 PM |      INFO | test_login_DDT.py:74 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:34:52 PM |      INFO | test_login_DDT.py:82 | End of Login DDT Test
+07/15/2023 04:34:52 PM |      INFO | test_login_DDT.py:83 | Completed test_Login_DDT_003) 
+07/15/2023 04:41:07 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 04:41:07 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 04:41:11 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:41:11 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:41:12 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:41:14 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:41:15 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:41:15 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:41:16 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:41:18 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:41:20 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:41:21 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:41:21 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:41:21 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:41:23 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:41:23 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:41:23 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:41:25 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:41:25 PM |      INFO | test_login_DDT.py:74 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:41:28 PM |      INFO | test_login_DDT.py:82 | End of Login DDT Test
+07/15/2023 04:41:28 PM |      INFO | test_login_DDT.py:83 | Completed test_Login_DDT_003) 
+07/15/2023 04:50:59 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 04:50:59 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 04:51:05 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:51:06 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:51:06 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:51:10 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:51:12 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:51:12 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:51:12 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:51:12 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:51:14 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:51:15 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:51:15 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:51:15 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:51:17 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:51:17 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:51:17 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:51:18 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:51:18 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:51:20 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 04:51:20 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 04:57:18 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 04:57:18 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 04:57:23 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:57:23 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:57:23 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:57:26 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:57:28 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:57:28 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:57:28 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:57:28 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:57:31 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:57:31 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:57:31 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:57:32 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:57:33 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 04:57:33 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 04:57:33 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 04:57:36 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 04:57:36 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 04:57:38 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 04:57:38 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 05:02:43 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 05:02:43 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 05:02:48 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 05:02:48 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 05:02:49 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 05:02:51 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 05:02:52 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 05:02:52 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 05:02:52 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 05:02:55 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 05:02:57 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 05:02:57 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 05:02:57 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 05:02:58 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 05:02:59 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 05:02:59 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 05:02:59 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 05:03:00 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 05:03:00 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 05:03:02 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 05:03:02 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 06:09:59 PM |      INFO | test_UserLogin.py:13 | UserLogin_test_002 start
+07/15/2023 06:09:59 PM |      INFO | test_UserLogin.py:15 | Opening Browser
+07/15/2023 06:10:05 PM |      INFO | test_UserLogin.py:17 | invoking the url
+07/15/2023 06:10:06 PM |      INFO | test_UserLogin.py:20 | Clicking link
+07/15/2023 06:10:06 PM |      INFO | test_UserLogin.py:22 | Entering Username
+07/15/2023 06:10:07 PM |      INFO | test_UserLogin.py:24 | Entering password
+07/15/2023 06:10:10 PM |      INFO | test_UserLogin.py:26 | Clicking on Signin Button
+07/15/2023 06:10:30 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 06:10:30 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 06:10:38 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:10:38 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:10:38 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:10:41 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:10:43 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:10:43 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:10:44 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:10:44 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:10:46 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:10:46 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:10:46 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:10:46 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 06:10:49 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 06:10:51 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:10:51 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:10:51 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:11:03 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:11:03 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:11:03 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:11:16 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:11:16 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:11:16 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:11:28 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:11:28 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:11:28 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:17:36 PM |      INFO | test_UserLogin.py:13 | UserLogin_test_002 start
+07/15/2023 06:17:36 PM |      INFO | test_UserLogin.py:15 | Opening Browser
+07/15/2023 06:17:37 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 06:17:37 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 06:17:37 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:17:37 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:17:37 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:17:47 PM |      INFO | test_UserLogin.py:17 | invoking the url
+07/15/2023 06:17:48 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:17:48 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:17:48 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:17:49 PM |      INFO | test_UserLogin.py:20 | Clicking link
+07/15/2023 06:17:50 PM |      INFO | test_UserLogin.py:22 | Entering Username
+07/15/2023 06:17:50 PM |      INFO | test_UserLogin.py:24 | Entering password
+07/15/2023 06:17:50 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:17:50 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:17:50 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:17:52 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:17:53 PM |      INFO | test_UserLogin.py:26 | Clicking on Signin Button
+07/15/2023 06:17:54 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:17:54 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:17:54 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:17:54 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:17:57 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:17:58 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:17:58 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:17:58 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 06:18:01 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 06:18:03 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:18:03 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:18:03 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:18:05 PM |      INFO | test_login_param.py:9 | TestCase test_login_004 is started
+07/15/2023 06:18:05 PM |      INFO | test_login_param.py:11 | Invoking browser
+07/15/2023 06:18:05 PM |      INFO | test_login_param.py:12 | Opening url
+07/15/2023 06:30:14 PM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/15/2023 06:30:14 PM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/15/2023 06:30:14 PM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/15/2023 06:30:14 PM |      INFO | test_login_param.py:13 | Invoking browser
+07/15/2023 06:30:15 PM |      INFO | test_UserLogin.py:13 | UserLogin_test_002 start
+07/15/2023 06:30:15 PM |      INFO | test_UserLogin.py:15 | Opening Browser
+07/15/2023 06:30:27 PM |      INFO | test_UserLogin.py:17 | invoking the url
+07/15/2023 06:30:29 PM |      INFO | test_login_param.py:15 | Opening url
+07/15/2023 06:30:29 PM |      INFO | test_UserLogin.py:20 | Clicking link
+07/15/2023 06:30:30 PM |      INFO | test_UserLogin.py:22 | Entering Username
+07/15/2023 06:30:30 PM |      INFO | test_UserLogin.py:24 | Entering password
+07/15/2023 06:30:31 PM |      INFO | test_login_param.py:18 | Clicking on login link
+07/15/2023 06:30:31 PM |      INFO | test_login_param.py:20 | Entering email lukeshade@gmail.com
+07/15/2023 06:30:31 PM |      INFO | test_login_param.py:22 | Entering password Test@123
+07/15/2023 06:30:34 PM |      INFO | test_UserLogin.py:26 | Clicking on Signin Button
+07/15/2023 06:30:35 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:30:35 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:30:35 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:30:36 PM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/15/2023 06:30:36 PM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/15/2023 06:30:36 PM |      INFO | test_login_param.py:13 | Invoking browser
+07/15/2023 06:30:36 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/15/2023 06:30:38 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:30:40 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:30:40 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:30:40 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:30:40 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:30:43 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:30:43 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:30:43 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:30:43 PM |      INFO | test_login_param.py:15 | Opening url
+07/15/2023 06:30:43 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:30:45 PM |      INFO | test_login_param.py:18 | Clicking on login link
+07/15/2023 06:30:45 PM |      INFO | test_login_param.py:20 | Entering email lukeshade@gmail.com
+07/15/2023 06:30:45 PM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/15/2023 06:30:45 PM |      INFO | test_login_param.py:22 | Entering password Test@1234
+07/15/2023 06:30:45 PM |      INFO | test_login_DDT.py:33 | entering username
+07/15/2023 06:30:45 PM |      INFO | test_login_DDT.py:35 | entering password
+07/15/2023 06:30:45 PM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/15/2023 06:30:45 PM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/15/2023 06:30:46 PM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/15/2023 06:30:46 PM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/15/2023 06:30:47 PM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/15/2023 06:30:47 PM |      INFO | test_login_param.py:13 | Invoking browser
+07/15/2023 06:30:47 PM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/15/2023 06:30:47 PM |      INFO | test_login_param.py:13 | Invoking browser
+07/15/2023 06:30:48 PM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/15/2023 06:30:48 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/15/2023 06:30:52 PM |      INFO | test_login_param.py:15 | Opening url
+07/15/2023 06:30:53 PM |      INFO | test_login_param.py:15 | Opening url
+07/15/2023 06:30:54 PM |      INFO | test_login_param.py:18 | Clicking on login link
+07/15/2023 06:30:54 PM |      INFO | test_login_param.py:20 | Entering email lukeshade@12gmail.com
+07/15/2023 06:30:54 PM |      INFO | test_login_param.py:22 | Entering password Test@123
+07/15/2023 06:30:55 PM |      INFO | test_login_param.py:18 | Clicking on login link
+07/15/2023 06:30:55 PM |      INFO | test_login_param.py:20 | Entering email lukeshade@12gmail.com
+07/15/2023 06:30:55 PM |      INFO | test_login_param.py:22 | Entering password Test@1234
+07/15/2023 06:30:57 PM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/15/2023 06:30:57 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/15/2023 06:30:58 PM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/15/2023 06:30:58 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail

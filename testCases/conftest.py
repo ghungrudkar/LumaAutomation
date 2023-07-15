@@ -30,3 +30,13 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def browser(request):
     return request.config.getoption("--browser")
+
+
+@pytest.fixture(params=[
+    ("lukeshade@gmail.com", "Test@123", "Pass"),
+    ("lukeshade@12gmail.com", "Test@123", "Fail"),
+    ("lukeshade@gmail.com", "Test@1234", "Fail"),
+    ("lukeshade@12gmail.com", "Test@1234", "Fail")
+])
+def data_for_login(request):
+    return request.param

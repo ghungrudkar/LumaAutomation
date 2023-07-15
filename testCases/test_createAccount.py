@@ -16,14 +16,15 @@ class Test_CreateAccount:
         self.rp.link_registration()
         self.rp.firstname("Lukesh")
         self.rp.lastname("Ade")
-        self.email = self.random_generator() + "@gmail.com"
+        self.email = random_generator() + "@gmail.com"
         self.rp.email(self.email)
         self.rp.password(self.password)
         self.rp.confirm_password(self.password)
         self.rp.submit_button()
 
-    def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
-        return ''.join(random.choice(chars) for _ in range(size))
+
+def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
+    return ''.join(random.choice(chars) for _ in range(size))
 
 # driver.find_element(By.LINK_TEXT, "Create an Account").click()
 # driver.find_element(By.ID,"firstname").send_keys("Lukesh")
