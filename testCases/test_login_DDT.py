@@ -1,5 +1,8 @@
 import time
 
+import allure
+import pytest
+from allure_commons.types import AttachmentType
 from selenium.webdriver.common.by import By
 
 from utilities import XLutilities
@@ -14,6 +17,8 @@ class Test_login_DDT_003:
     path = ".\\TestData\\testData.xlsx"
     log = LogGen.loggen()
 
+    @allure.severity(allure.severity_level.CRITICAL)
+    @pytest.mark.regression
     def test_login_ddt(self, setup):
         self.log.info("Test_login_DDT_003 is starting ")
         self.log.info("Verifying Test_login_DDT_003")
@@ -75,6 +80,8 @@ class Test_login_DDT_003:
         else:
             self.log.info("Testcases test_login_DDT_003 is failed")
             self.driver.save_screenshot(".\\Screenshot\\test_login_DDT_003_FAIL.png")
+            allure.attach(self.driver.get_screenshot_as_png(), name="test_login_ddt",
+                          attachment_type=AttachmentType.PNG)
             assert False
         self.driver.close()
         self.log.info("End of Login DDT Test")

@@ -615,3 +615,438 @@
 07/15/2023 06:30:57 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
 07/15/2023 06:30:58 PM |      INFO | test_login_param.py:24 | Clicking on Signin button
 07/15/2023 06:30:58 PM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/20/2023 10:29:14 AM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/20/2023 10:29:14 AM |      INFO | test_login_param.py:13 | Invoking browser
+07/20/2023 10:29:14 AM |      INFO | test_UserLogin.py:13 | UserLogin_test_002 start
+07/20/2023 10:29:14 AM |      INFO | test_UserLogin.py:15 | Opening Browser
+07/20/2023 10:29:14 AM |      INFO | test_login_DDT.py:18 | Test_login_DDT_003 is starting 
+07/20/2023 10:29:14 AM |      INFO | test_login_DDT.py:19 | Verifying Test_login_DDT_003
+07/20/2023 10:29:28 AM |      INFO | test_UserLogin.py:17 | invoking the url
+07/20/2023 10:29:37 AM |      INFO | test_UserLogin.py:20 | Clicking link
+07/20/2023 10:29:38 AM |      INFO | test_login_param.py:15 | Opening url
+07/20/2023 10:29:39 AM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/20/2023 10:29:40 AM |      INFO | test_UserLogin.py:22 | Entering Username
+07/20/2023 10:29:40 AM |      INFO | test_login_DDT.py:33 | entering username
+07/20/2023 10:29:40 AM |      INFO | test_UserLogin.py:24 | Entering password
+07/20/2023 10:29:40 AM |      INFO | test_login_DDT.py:35 | entering password
+07/20/2023 10:29:43 AM |      INFO | test_login_param.py:18 | Clicking on login link
+07/20/2023 10:29:45 AM |      INFO | test_UserLogin.py:26 | Clicking on Signin Button
+07/20/2023 10:29:45 AM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/20/2023 10:29:46 AM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/20/2023 10:29:46 AM |      INFO | test_login_param.py:13 | Invoking browser
+07/20/2023 10:29:47 AM |      INFO | test_login_param.py:20 | Entering email lukeshade@gmail.com
+07/20/2023 10:29:47 AM |      INFO | test_login_param.py:22 | Entering password Test@123
+07/20/2023 10:29:52 AM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/20/2023 10:29:53 AM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/20/2023 10:29:54 AM |      INFO | test_login_param.py:15 | Opening url
+07/20/2023 10:29:54 AM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/20/2023 10:29:55 AM |      INFO | test_login_DDT.py:33 | entering username
+07/20/2023 10:29:55 AM |      INFO | test_login_DDT.py:35 | entering password
+07/20/2023 10:29:56 AM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/20/2023 10:30:01 AM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/20/2023 10:30:01 AM |      INFO | test_login_param.py:13 | Invoking browser
+07/20/2023 10:30:01 AM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/20/2023 10:30:02 AM |      INFO | test_login_param.py:18 | Clicking on login link
+07/20/2023 10:30:02 AM |      INFO | test_login_param.py:20 | Entering email lukeshade@gmail.com
+07/20/2023 10:30:02 AM |      INFO | test_login_DDT.py:33 | entering username
+07/20/2023 10:30:02 AM |      INFO | test_login_param.py:22 | Entering password Test@1234
+07/20/2023 10:30:03 AM |      INFO | test_login_DDT.py:35 | entering password
+07/20/2023 10:30:03 AM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/20/2023 10:30:08 AM |      INFO | test_login_DDT.py:31 | Clicking on login link
+07/20/2023 10:30:08 AM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/20/2023 10:30:08 AM |      INFO | test_login_param.py:15 | Opening url
+07/20/2023 10:30:10 AM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/20/2023 10:30:10 AM |      INFO | test_login_DDT.py:33 | entering username
+07/20/2023 10:30:11 AM |      INFO | test_login_DDT.py:35 | entering password
+07/20/2023 10:30:11 AM |      INFO | test_login_DDT.py:37 | Clicking on submit button
+07/20/2023 10:30:11 AM |      INFO | test_login_DDT.py:72 | Testcases test_login_DDT_003 is passed
+07/20/2023 10:30:11 AM |      INFO | test_login_DDT.py:80 | End of Login DDT Test
+07/20/2023 10:30:11 AM |      INFO | test_login_DDT.py:81 | Completed test_Login_DDT_003) 
+07/20/2023 10:30:14 AM |      INFO | test_login_param.py:18 | Clicking on login link
+07/20/2023 10:30:15 AM |      INFO | test_login_param.py:11 | TestCase test_login_004 is started
+07/20/2023 10:30:15 AM |      INFO | test_login_param.py:13 | Invoking browser
+07/20/2023 10:30:15 AM |      INFO | test_login_param.py:20 | Entering email lukeshade@12gmail.com
+07/20/2023 10:30:16 AM |      INFO | test_login_param.py:22 | Entering password Test@123
+07/20/2023 10:30:21 AM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/20/2023 10:30:21 AM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+07/20/2023 10:30:22 AM |      INFO | test_login_param.py:15 | Opening url
+07/20/2023 10:30:24 AM |      INFO | test_login_param.py:18 | Clicking on login link
+07/20/2023 10:30:25 AM |      INFO | test_login_param.py:20 | Entering email lukeshade@12gmail.com
+07/20/2023 10:30:25 AM |      INFO | test_login_param.py:22 | Entering password Test@1234
+07/20/2023 10:30:29 AM |      INFO | test_login_param.py:24 | Clicking on Signin button
+07/20/2023 10:30:29 AM |      INFO | test_login_param.py:32 | TestCase test_login_param_004 is fail
+08/03/2023 01:52:55 PM |      INFO | test_createAccount.py:20 | TestCase test_registration_001 is started
+08/03/2023 01:52:55 PM |      INFO | test_createAccount.py:21 | invoking the browser
+08/03/2023 01:53:06 PM |      INFO | test_createAccount.py:23 | opening URL
+08/03/2023 01:53:08 PM |      INFO | test_createAccount.py:26 | clicking on registration link
+08/03/2023 01:53:08 PM |      INFO | test_createAccount.py:28 | entering firstname
+08/03/2023 01:53:08 PM |      INFO | test_createAccount.py:30 | entering lastname
+08/03/2023 01:56:15 PM |      INFO | test_createAccount.py:20 | TestCase test_registration_001 is started
+08/03/2023 01:56:15 PM |      INFO | test_createAccount.py:21 | invoking the browser
+08/03/2023 01:56:28 PM |      INFO | test_createAccount.py:23 | opening URL
+08/03/2023 01:56:30 PM |      INFO | test_createAccount.py:26 | clicking on registration link
+08/03/2023 01:56:30 PM |      INFO | test_createAccount.py:28 | entering firstname
+08/03/2023 01:56:30 PM |      INFO | test_createAccount.py:30 | entering lastname
+08/03/2023 02:05:00 PM |      INFO | test_createAccount.py:20 | TestCase test_registration_001 is started
+08/03/2023 02:05:00 PM |      INFO | test_createAccount.py:21 | invoking the browser
+08/03/2023 02:05:11 PM |      INFO | test_createAccount.py:23 | opening URL
+08/03/2023 02:05:12 PM |      INFO | test_createAccount.py:26 | clicking on registration link
+08/03/2023 02:05:12 PM |      INFO | test_createAccount.py:28 | entering firstname
+08/03/2023 02:05:12 PM |      INFO | test_createAccount.py:30 | entering lastname
+08/03/2023 02:07:38 PM |      INFO | test_createAccount.py:20 | TestCase test_registration_001 is started
+08/03/2023 02:07:38 PM |      INFO | test_createAccount.py:21 | invoking the browser
+08/03/2023 02:07:44 PM |      INFO | test_createAccount.py:23 | opening URL
+08/03/2023 02:07:46 PM |      INFO | test_createAccount.py:26 | clicking on registration link
+08/03/2023 02:07:46 PM |      INFO | test_createAccount.py:28 | entering firstname
+08/03/2023 02:07:46 PM |      INFO | test_createAccount.py:30 | entering lastname
+08/03/2023 02:15:02 PM |      INFO | test_createAccount.py:20 | TestCase test_registration_001 is started
+08/03/2023 02:15:02 PM |      INFO | test_createAccount.py:21 | invoking the browser
+08/03/2023 02:15:20 PM |      INFO | test_createAccount.py:23 | opening URL
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:26 | clicking on registration link
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:28 | entering firstname
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:30 | entering lastname
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:33 | entering the email
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:35 | entering the password
+08/03/2023 02:15:23 PM |      INFO | test_createAccount.py:37 | entering the confirm password
+08/03/2023 02:15:27 PM |      INFO | test_createAccount.py:39 | clicking submit button
+08/03/2023 02:33:09 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 02:33:09 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 02:33:26 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 02:33:35 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 02:33:39 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 02:33:39 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 02:33:39 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 02:33:40 PM |      INFO | test_createAccount.py:49 | test_registration_001 is fail
+08/03/2023 02:38:41 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 02:38:41 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 02:38:57 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 02:39:03 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 02:39:04 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 02:39:04 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 02:39:04 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 02:39:04 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 02:39:04 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 02:39:09 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 02:39:09 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 02:39:09 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 02:39:09 PM |      INFO | test_createAccount.py:49 | test_registration_001 is fail
+08/03/2023 02:39:51 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 02:39:51 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 02:40:03 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 02:40:07 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 02:40:11 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 02:40:11 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 02:40:11 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 02:40:11 PM |      INFO | test_createAccount.py:46 | test_registration_001 is pass
+08/03/2023 02:40:11 PM |      INFO | test_createAccount.py:53 | Ending of test_registration_001
+08/03/2023 02:41:11 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 02:41:11 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 02:41:22 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 02:41:26 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 02:41:26 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 02:41:26 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 02:41:27 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 02:41:27 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 02:41:27 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 02:41:30 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 02:41:30 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 02:41:30 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 02:41:30 PM |      INFO | test_createAccount.py:47 | test_registration_001 is pass
+08/03/2023 02:41:30 PM |      INFO | test_createAccount.py:54 | Ending of test_registration_001
+08/03/2023 03:09:01 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 03:09:01 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 03:09:10 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 03:09:12 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 03:09:16 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 03:09:16 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 03:09:16 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 03:09:16 PM |      INFO | test_createAccount.py:50 | test_registration_001 is fail
+08/03/2023 03:23:20 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 03:23:20 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 03:23:29 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 03:23:33 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 03:23:37 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 03:23:37 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 03:23:37 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 03:23:37 PM |      INFO | test_createAccount.py:50 | test_registration_001 is fail
+08/03/2023 03:39:11 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 03:39:11 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 03:39:27 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 03:39:28 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 03:39:33 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 03:39:33 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 03:39:33 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 03:39:33 PM |      INFO | test_createAccount.py:50 | test_registration_001 is fail
+08/03/2023 03:43:54 PM |      INFO | test_UserLogin.py:16 | UserLogin_test_002 start
+08/03/2023 03:43:54 PM |      INFO | test_UserLogin.py:18 | Opening Browser
+08/03/2023 03:44:08 PM |      INFO | test_UserLogin.py:20 | invoking the url
+08/03/2023 03:44:09 PM |      INFO | test_UserLogin.py:23 | Clicking link
+08/03/2023 03:44:09 PM |      INFO | test_UserLogin.py:25 | Entering Username
+08/03/2023 03:44:10 PM |      INFO | test_UserLogin.py:27 | Entering password
+08/03/2023 03:44:13 PM |      INFO | test_UserLogin.py:29 | Clicking on Signin Button
+08/03/2023 03:44:25 PM |      INFO | test_createAccount.py:21 | TestCase test_registration_001 is started
+08/03/2023 03:44:25 PM |      INFO | test_createAccount.py:22 | invoking the browser
+08/03/2023 03:44:35 PM |      INFO | test_createAccount.py:24 | opening URL
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:27 | clicking on registration link
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:29 | entering firstname
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:31 | entering lastname
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:34 | entering the email
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:36 | entering the password
+08/03/2023 03:44:39 PM |      INFO | test_createAccount.py:38 | entering the confirm password
+08/03/2023 03:44:42 PM |      INFO | test_createAccount.py:40 | clicking submit button
+08/03/2023 03:44:42 PM |      INFO | test_createAccount.py:41 | saving customer info
+08/03/2023 03:44:42 PM |      INFO | test_createAccount.py:42 | user_registration validation start
+08/03/2023 03:44:42 PM |      INFO | test_createAccount.py:50 | test_registration_001 is fail
+08/03/2023 03:44:44 PM |      INFO | test_login_DDT.py:20 | Test_login_DDT_003 is starting 
+08/03/2023 03:44:44 PM |      INFO | test_login_DDT.py:21 | Verifying Test_login_DDT_003
+08/03/2023 03:44:55 PM |      INFO | test_login_DDT.py:33 | Clicking on login link
+08/03/2023 03:44:55 PM |      INFO | test_login_DDT.py:35 | entering username
+08/03/2023 03:44:55 PM |      INFO | test_login_DDT.py:37 | entering password
+08/03/2023 03:44:59 PM |      INFO | test_login_DDT.py:39 | Clicking on submit button
+08/03/2023 03:45:01 PM |      INFO | test_login_DDT.py:33 | Clicking on login link
+08/03/2023 03:45:01 PM |      INFO | test_login_DDT.py:35 | entering username
+08/03/2023 03:45:01 PM |      INFO | test_login_DDT.py:37 | entering password
+08/03/2023 03:45:01 PM |      INFO | test_login_DDT.py:39 | Clicking on submit button
+08/03/2023 03:45:04 PM |      INFO | test_login_DDT.py:33 | Clicking on login link
+08/03/2023 03:45:04 PM |      INFO | test_login_DDT.py:35 | entering username
+08/03/2023 03:45:04 PM |      INFO | test_login_DDT.py:37 | entering password
+08/03/2023 03:45:04 PM |      INFO | test_login_DDT.py:39 | Clicking on submit button
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:33 | Clicking on login link
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:35 | entering username
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:37 | entering password
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:39 | Clicking on submit button
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:74 | Testcases test_login_DDT_003 is passed
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:82 | End of Login DDT Test
+08/03/2023 03:45:07 PM |      INFO | test_login_DDT.py:83 | Completed test_Login_DDT_003) 
+08/03/2023 03:45:09 PM |      INFO | test_login_param.py:14 | TestCase test_login_004 is started
+08/03/2023 03:45:09 PM |      INFO | test_login_param.py:16 | Invoking browser
+08/03/2023 03:45:20 PM |      INFO | test_login_param.py:18 | Opening url
+08/03/2023 03:45:22 PM |      INFO | test_login_param.py:21 | Clicking on login link
+08/03/2023 03:45:22 PM |      INFO | test_login_param.py:23 | Entering email lukeshade@gmail.com
+08/03/2023 03:45:22 PM |      INFO | test_login_param.py:25 | Entering password Test@123
+08/03/2023 03:45:26 PM |      INFO | test_login_param.py:27 | Clicking on Signin button
+08/03/2023 03:45:26 PM |      INFO | test_login_param.py:35 | TestCase test_login_param_004 is fail
+08/03/2023 03:45:28 PM |      INFO | test_login_param.py:14 | TestCase test_login_004 is started
+08/03/2023 03:45:28 PM |      INFO | test_login_param.py:16 | Invoking browser
+08/03/2023 03:45:41 PM |      INFO | test_login_param.py:18 | Opening url
+08/03/2023 03:45:42 PM |      INFO | test_login_param.py:21 | Clicking on login link
+08/03/2023 03:45:42 PM |      INFO | test_login_param.py:23 | Entering email lukeshade@12gmail.com
+08/03/2023 03:45:42 PM |      INFO | test_login_param.py:25 | Entering password Test@123
+08/03/2023 03:45:45 PM |      INFO | test_login_param.py:27 | Clicking on Signin button
+08/03/2023 03:45:46 PM |      INFO | test_login_param.py:35 | TestCase test_login_param_004 is fail
+08/03/2023 03:45:47 PM |      INFO | test_login_param.py:14 | TestCase test_login_004 is started
+08/03/2023 03:45:47 PM |      INFO | test_login_param.py:16 | Invoking browser
+08/03/2023 03:45:57 PM |      INFO | test_login_param.py:18 | Opening url
+08/03/2023 03:45:58 PM |      INFO | test_login_param.py:21 | Clicking on login link
+08/03/2023 03:45:58 PM |      INFO | test_login_param.py:23 | Entering email lukeshade@gmail.com
+08/03/2023 03:45:58 PM |      INFO | test_login_param.py:25 | Entering password Test@1234
+08/03/2023 03:46:01 PM |      INFO | test_login_param.py:27 | Clicking on Signin button
+08/03/2023 03:46:01 PM |      INFO | test_login_param.py:35 | TestCase test_login_param_004 is fail
+08/03/2023 03:46:03 PM |      INFO | test_login_param.py:14 | TestCase test_login_004 is started
+08/03/2023 03:46:03 PM |      INFO | test_login_param.py:16 | Invoking browser
+08/03/2023 03:46:15 PM |      INFO | test_login_param.py:18 | Opening url
+08/03/2023 03:46:16 PM |      INFO | test_login_param.py:21 | Clicking on login link
+08/03/2023 03:46:16 PM |      INFO | test_login_param.py:23 | Entering email lukeshade@12gmail.com
+08/03/2023 03:46:16 PM |      INFO | test_login_param.py:25 | Entering password Test@1234
+08/03/2023 03:46:20 PM |      INFO | test_login_param.py:27 | Clicking on Signin button
+08/03/2023 03:46:20 PM |      INFO | test_login_param.py:35 | TestCase test_login_param_004 is fail
+08/04/2023 01:34:12 PM |      INFO | test_UserLogin.py:18 | UserLogin_test_002 start
+08/04/2023 01:34:12 PM |      INFO | test_UserLogin.py:20 | Opening Browser
+08/04/2023 01:34:30 PM |      INFO | test_UserLogin.py:22 | invoking the url
+08/04/2023 01:34:31 PM |      INFO | test_UserLogin.py:25 | Clicking link
+08/04/2023 01:34:32 PM |      INFO | test_UserLogin.py:27 | Entering Username
+08/04/2023 01:34:32 PM |      INFO | test_UserLogin.py:29 | Entering password
+08/04/2023 01:34:35 PM |      INFO | test_UserLogin.py:31 | Clicking on Signin Button
+08/04/2023 01:34:50 PM |      INFO | test_createAccount.py:23 | TestCase test_registration_001 is started
+08/04/2023 01:34:50 PM |      INFO | test_createAccount.py:24 | invoking the browser
+08/04/2023 01:35:06 PM |      INFO | test_createAccount.py:26 | opening URL
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:29 | clicking on registration link
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:31 | entering firstname
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:33 | entering lastname
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:36 | entering the email
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:38 | entering the password
+08/04/2023 01:35:11 PM |      INFO | test_createAccount.py:40 | entering the confirm password
+08/04/2023 01:35:16 PM |      INFO | test_createAccount.py:42 | clicking submit button
+08/04/2023 01:35:16 PM |      INFO | test_createAccount.py:43 | saving customer info
+08/04/2023 01:35:16 PM |      INFO | test_createAccount.py:44 | user_registration validation start
+08/04/2023 01:35:16 PM |      INFO | test_createAccount.py:49 | test_registration_001 is pass
+08/04/2023 01:35:16 PM |      INFO | test_createAccount.py:56 | Ending of test_registration_001
+08/04/2023 01:35:18 PM |      INFO | test_login_DDT.py:22 | Test_login_DDT_003 is starting 
+08/04/2023 01:35:18 PM |      INFO | test_login_DDT.py:23 | Verifying Test_login_DDT_003
+08/04/2023 01:35:32 PM |      INFO | test_login_DDT.py:35 | Clicking on login link
+08/04/2023 01:35:32 PM |      INFO | test_login_DDT.py:37 | entering username
+08/04/2023 01:35:33 PM |      INFO | test_login_DDT.py:39 | entering password
+08/04/2023 01:35:38 PM |      INFO | test_login_DDT.py:41 | Clicking on submit button
+08/04/2023 01:35:43 PM |      INFO | test_login_param.py:15 | TestCase test_login_004 is started
+08/04/2023 01:35:43 PM |      INFO | test_login_param.py:17 | Invoking browser
+08/04/2023 01:35:56 PM |      INFO | test_login_param.py:19 | Opening url
+08/04/2023 01:35:58 PM |      INFO | test_login_param.py:22 | Clicking on login link
+08/04/2023 01:35:59 PM |      INFO | test_login_param.py:24 | Entering email lukeshade@gmail.com
+08/04/2023 01:35:59 PM |      INFO | test_login_param.py:26 | Entering password Test@123
+08/04/2023 01:36:05 PM |      INFO | test_login_param.py:28 | Clicking on Signin button
+08/04/2023 01:36:05 PM |      INFO | test_login_param.py:36 | TestCase test_login_param_004 is fail
+08/04/2023 01:36:09 PM |      INFO | test_login_param.py:15 | TestCase test_login_004 is started
+08/04/2023 01:36:09 PM |      INFO | test_login_param.py:17 | Invoking browser
+08/04/2023 01:36:22 PM |      INFO | test_login_param.py:19 | Opening url
+08/04/2023 01:36:25 PM |      INFO | test_login_param.py:22 | Clicking on login link
+08/04/2023 01:36:25 PM |      INFO | test_login_param.py:24 | Entering email lukeshade@12gmail.com
+08/04/2023 01:36:26 PM |      INFO | test_login_param.py:26 | Entering password Test@123
+08/04/2023 01:36:29 PM |      INFO | test_login_param.py:28 | Clicking on Signin button
+08/04/2023 01:36:29 PM |      INFO | test_login_param.py:36 | TestCase test_login_param_004 is fail
+08/04/2023 01:36:32 PM |      INFO | test_login_param.py:15 | TestCase test_login_004 is started
+08/04/2023 01:36:32 PM |      INFO | test_login_param.py:17 | Invoking browser
+08/04/2023 01:36:52 PM |      INFO | test_login_param.py:19 | Opening url
+08/04/2023 01:36:55 PM |      INFO | test_login_param.py:22 | Clicking on login link
+08/04/2023 01:36:56 PM |      INFO | test_login_param.py:24 | Entering email lukeshade@gmail.com
+08/04/2023 01:36:56 PM |      INFO | test_login_param.py:26 | Entering password Test@1234
+08/04/2023 01:37:01 PM |      INFO | test_login_param.py:28 | Clicking on Signin button
+08/04/2023 01:37:02 PM |      INFO | test_login_param.py:36 | TestCase test_login_param_004 is fail
+08/04/2023 01:37:05 PM |      INFO | test_login_param.py:15 | TestCase test_login_004 is started
+08/04/2023 01:37:05 PM |      INFO | test_login_param.py:17 | Invoking browser
+08/04/2023 01:37:26 PM |      INFO | test_login_param.py:19 | Opening url
+08/04/2023 01:37:29 PM |      INFO | test_login_param.py:22 | Clicking on login link
+08/04/2023 01:37:29 PM |      INFO | test_login_param.py:24 | Entering email lukeshade@12gmail.com
+08/04/2023 01:37:30 PM |      INFO | test_login_param.py:26 | Entering password Test@1234
+08/04/2023 01:37:34 PM |      INFO | test_login_param.py:28 | Clicking on Signin button
+08/04/2023 01:37:34 PM |      INFO | test_login_param.py:36 | TestCase test_login_param_004 is fail
+08/04/2023 02:00:24 PM |      INFO | test_UserLogin.py:19 | UserLogin_test_002 start
+08/04/2023 02:00:24 PM |      INFO | test_UserLogin.py:21 | Opening Browser
+08/04/2023 02:00:41 PM |      INFO | test_UserLogin.py:23 | invoking the url
+08/04/2023 02:00:42 PM |      INFO | test_UserLogin.py:26 | Clicking link
+08/04/2023 02:00:43 PM |      INFO | test_UserLogin.py:28 | Entering Username
+08/04/2023 02:00:43 PM |      INFO | test_UserLogin.py:30 | Entering password
+08/04/2023 02:00:46 PM |      INFO | test_UserLogin.py:32 | Clicking on Signin Button
+08/04/2023 02:01:02 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/04/2023 02:01:02 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/04/2023 02:01:26 PM |      INFO | test_createAccount.py:27 | opening URL
+08/04/2023 02:01:30 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/04/2023 02:01:30 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/04/2023 02:01:31 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/04/2023 02:01:31 PM |      INFO | test_createAccount.py:37 | entering the email
+08/04/2023 02:01:31 PM |      INFO | test_createAccount.py:39 | entering the password
+08/04/2023 02:01:31 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/04/2023 02:01:35 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/04/2023 02:01:35 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/04/2023 02:01:35 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/04/2023 02:01:35 PM |      INFO | test_createAccount.py:55 | test_registration_001 is fail
+08/04/2023 02:01:38 PM |      INFO | test_login_DDT.py:23 | Test_login_DDT_003 is starting 
+08/04/2023 02:01:38 PM |      INFO | test_login_DDT.py:24 | Verifying Test_login_DDT_003
+08/04/2023 02:02:47 PM |      INFO | test_login_DDT.py:36 | Clicking on login link
+08/04/2023 02:02:47 PM |      INFO | test_login_DDT.py:38 | entering username
+08/04/2023 02:02:47 PM |      INFO | test_login_DDT.py:40 | entering password
+08/04/2023 02:03:28 PM |      INFO | test_login_DDT.py:42 | Clicking on submit button
+08/04/2023 02:03:32 PM |      INFO | test_login_param.py:16 | TestCase test_login_004 is started
+08/04/2023 02:03:32 PM |      INFO | test_login_param.py:18 | Invoking browser
+08/04/2023 02:03:57 PM |      INFO | test_login_param.py:20 | Opening url
+08/04/2023 02:04:20 PM |      INFO | test_login_param.py:23 | Clicking on login link
+08/04/2023 02:04:20 PM |      INFO | test_login_param.py:25 | Entering email lukeshade@gmail.com
+08/04/2023 02:04:20 PM |      INFO | test_login_param.py:27 | Entering password Test@123
+08/04/2023 02:04:25 PM |      INFO | test_login_param.py:29 | Clicking on Signin button
+08/04/2023 02:04:25 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:04:30 PM |      INFO | test_login_param.py:16 | TestCase test_login_004 is started
+08/04/2023 02:04:30 PM |      INFO | test_login_param.py:18 | Invoking browser
+08/04/2023 02:05:23 PM |      INFO | test_login_param.py:20 | Opening url
+08/04/2023 02:05:26 PM |      INFO | test_login_param.py:23 | Clicking on login link
+08/04/2023 02:05:26 PM |      INFO | test_login_param.py:25 | Entering email lukeshade@12gmail.com
+08/04/2023 02:05:26 PM |      INFO | test_login_param.py:27 | Entering password Test@123
+08/04/2023 02:05:43 PM |      INFO | test_login_param.py:29 | Clicking on Signin button
+08/04/2023 02:05:43 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:05:48 PM |      INFO | test_login_param.py:16 | TestCase test_login_004 is started
+08/04/2023 02:05:48 PM |      INFO | test_login_param.py:18 | Invoking browser
+08/04/2023 02:06:56 PM |      INFO | test_login_param.py:20 | Opening url
+08/04/2023 02:07:00 PM |      INFO | test_login_param.py:23 | Clicking on login link
+08/04/2023 02:07:00 PM |      INFO | test_login_param.py:25 | Entering email lukeshade@gmail.com
+08/04/2023 02:07:00 PM |      INFO | test_login_param.py:27 | Entering password Test@1234
+08/04/2023 02:07:03 PM |      INFO | test_login_param.py:29 | Clicking on Signin button
+08/04/2023 02:07:03 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:07:06 PM |      INFO | test_login_param.py:16 | TestCase test_login_004 is started
+08/04/2023 02:07:06 PM |      INFO | test_login_param.py:18 | Invoking browser
+08/04/2023 02:08:04 PM |      INFO | test_login_param.py:20 | Opening url
+08/04/2023 02:08:30 PM |      INFO | test_login_param.py:23 | Clicking on login link
+08/04/2023 02:08:30 PM |      INFO | test_login_param.py:25 | Entering email lukeshade@12gmail.com
+08/04/2023 02:08:30 PM |      INFO | test_login_param.py:27 | Entering password Test@1234
+08/04/2023 02:08:36 PM |      INFO | test_login_param.py:29 | Clicking on Signin button
+08/04/2023 02:08:36 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:31:30 PM |      INFO | test_login_param.py:17 | TestCase test_login_004 is started
+08/04/2023 02:31:30 PM |      INFO | test_login_param.py:19 | Invoking browser
+08/04/2023 02:31:43 PM |      INFO | test_login_param.py:21 | Opening url
+08/04/2023 02:31:44 PM |      INFO | test_login_param.py:24 | Clicking on login link
+08/04/2023 02:31:44 PM |      INFO | test_login_param.py:26 | Entering email lukeshade@gmail.com
+08/04/2023 02:31:44 PM |      INFO | test_login_param.py:28 | Entering password Test@123
+08/04/2023 02:31:47 PM |      INFO | test_login_param.py:30 | Clicking on Signin button
+08/04/2023 02:31:47 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:31:49 PM |      INFO | test_login_param.py:17 | TestCase test_login_004 is started
+08/04/2023 02:31:49 PM |      INFO | test_login_param.py:19 | Invoking browser
+08/04/2023 02:32:34 PM |      INFO | test_login_param.py:21 | Opening url
+08/04/2023 02:32:36 PM |      INFO | test_login_param.py:24 | Clicking on login link
+08/04/2023 02:32:36 PM |      INFO | test_login_param.py:26 | Entering email lukeshade@12gmail.com
+08/04/2023 02:32:36 PM |      INFO | test_login_param.py:28 | Entering password Test@123
+08/04/2023 02:32:39 PM |      INFO | test_login_param.py:30 | Clicking on Signin button
+08/04/2023 02:32:39 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:32:41 PM |      INFO | test_login_param.py:17 | TestCase test_login_004 is started
+08/04/2023 02:32:41 PM |      INFO | test_login_param.py:19 | Invoking browser
+08/04/2023 02:32:51 PM |      INFO | test_login_param.py:21 | Opening url
+08/04/2023 02:32:53 PM |      INFO | test_login_param.py:24 | Clicking on login link
+08/04/2023 02:32:53 PM |      INFO | test_login_param.py:26 | Entering email lukeshade@gmail.com
+08/04/2023 02:32:53 PM |      INFO | test_login_param.py:28 | Entering password Test@1234
+08/04/2023 02:32:56 PM |      INFO | test_login_param.py:30 | Clicking on Signin button
+08/04/2023 02:32:56 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 02:32:58 PM |      INFO | test_login_param.py:17 | TestCase test_login_004 is started
+08/04/2023 02:32:58 PM |      INFO | test_login_param.py:19 | Invoking browser
+08/04/2023 02:33:22 PM |      INFO | test_login_param.py:21 | Opening url
+08/04/2023 02:33:36 PM |      INFO | test_login_param.py:24 | Clicking on login link
+08/04/2023 02:33:36 PM |      INFO | test_login_param.py:26 | Entering email lukeshade@12gmail.com
+08/04/2023 02:33:37 PM |      INFO | test_login_param.py:28 | Entering password Test@1234
+08/04/2023 02:33:40 PM |      INFO | test_login_param.py:30 | Clicking on Signin button
+08/04/2023 02:33:40 PM |      INFO | test_login_param.py:37 | TestCase test_login_param_004 is fail
+08/04/2023 03:07:11 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/04/2023 03:07:11 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/04/2023 03:07:45 PM |      INFO | test_createAccount.py:27 | opening URL
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:37 | entering the email
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:39 | entering the password
+08/04/2023 03:07:54 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/04/2023 03:07:58 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/04/2023 03:07:58 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/04/2023 03:07:58 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/04/2023 03:07:59 PM |      INFO | test_createAccount.py:55 | test_registration_001 is fail
+08/04/2023 03:09:57 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/04/2023 03:09:57 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/04/2023 03:10:46 PM |      INFO | test_createAccount.py:27 | opening URL
+08/04/2023 03:10:52 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/04/2023 03:10:52 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/04/2023 03:10:52 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/04/2023 03:10:52 PM |      INFO | test_createAccount.py:37 | entering the email
+08/04/2023 03:10:53 PM |      INFO | test_createAccount.py:39 | entering the password
+08/04/2023 03:10:53 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/04/2023 03:10:56 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/04/2023 03:10:56 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/04/2023 03:10:56 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/04/2023 03:10:57 PM |      INFO | test_createAccount.py:55 | test_registration_001 is fail

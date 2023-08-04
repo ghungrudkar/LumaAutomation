@@ -34,7 +34,7 @@ class UserRegistrationClass:
     def lastname(self, lastname):
         self.driver.find_element(*UserRegistrationClass.textBoxLastname_ID).send_keys(lastname)
 
-    def email(self, email):
+    def setEmail(self, email):
         self.driver.find_element(*UserRegistrationClass.textBoxEmail_NAME).send_keys(email)
 
     def password(self, password):
@@ -45,3 +45,6 @@ class UserRegistrationClass:
 
     def submit_button(self):
         self.driver.find_element(*UserRegistrationClass.buttonSubmit_XPATH).click()
+
+    # def generate_random_username(self):
+    #     return ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(8))

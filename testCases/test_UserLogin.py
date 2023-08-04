@@ -1,3 +1,7 @@
+import allure
+import pytest
+from allure_commons.types import AttachmentType
+
 from pageObject.UserLogin_Page import UserLoginClass
 from utilities.ReadConfigFile import ReadConfig
 from utilities.Logger import LogGen
@@ -9,6 +13,8 @@ class Test_UserLogin:
     password = ReadConfig.get_password()
     log = LogGen.loggen()
 
+    @allure.severity(allure.severity_level.CRITICAL)
+    @pytest.mark.regression
     def test_login_002(self, setup):
         self.log.info("UserLogin_test_002 start")
         self.driver = setup
@@ -34,6 +40,8 @@ class Test_UserLogin:
         else:
             self.log.info("Testcases test_login_002 is fail")
             self.driver.save_screenshot(".\\Screenshot\\test_login_002_fail.png")
+            allure.attach(self.driver.get_screenshot_as_png(), name="test_login_002",
+                          attachment_type=AttachmentType.PNG)
             assert False
         self.driver.close()
         self.log.info("Testcase test_login_002 is complete")
