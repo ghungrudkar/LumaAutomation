@@ -1100,3 +1100,42 @@
 08/09/2023 12:53:32 PM |      INFO | test_createAccount.py:45 | user_registration validation start
 08/09/2023 12:53:32 PM |      INFO | test_createAccount.py:50 | test_registration_001 is pass
 08/09/2023 12:53:35 PM |      INFO | test_createAccount.py:59 | Ending of test_registration_001
+08/09/2023 02:10:32 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/09/2023 02:10:32 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/09/2023 02:10:42 PM |      INFO | test_createAccount.py:27 | opening URL
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:37 | entering the email
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:39 | entering the password
+08/09/2023 02:10:43 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/09/2023 02:10:47 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/09/2023 02:10:47 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/09/2023 02:10:47 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/09/2023 02:10:47 PM |      INFO | test_createAccount.py:55 | test_registration_001 is fail
+08/09/2023 02:11:23 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/09/2023 02:11:23 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/09/2023 02:11:38 PM |      INFO | test_createAccount.py:27 | opening URL
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:37 | entering the email
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:39 | entering the password
+08/09/2023 02:11:43 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/09/2023 02:11:47 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/09/2023 02:11:47 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/09/2023 02:11:47 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/09/2023 02:17:02 PM |      INFO | test_createAccount.py:24 | TestCase test_registration_001 is started
+08/09/2023 02:17:02 PM |      INFO | test_createAccount.py:25 | invoking the browser
+08/09/2023 02:17:13 PM |      INFO | test_createAccount.py:27 | opening URL
+08/09/2023 02:17:17 PM |      INFO | test_createAccount.py:30 | clicking on registration link
+08/09/2023 02:17:17 PM |      INFO | test_createAccount.py:32 | entering firstname
+08/09/2023 02:17:17 PM |      INFO | test_createAccount.py:34 | entering lastname
+08/09/2023 02:17:17 PM |      INFO | test_createAccount.py:37 | entering the email
+08/09/2023 02:17:17 PM |      INFO | test_createAccount.py:39 | entering the password
+08/09/2023 02:17:18 PM |      INFO | test_createAccount.py:41 | entering the confirm password
+08/09/2023 02:17:21 PM |      INFO | test_createAccount.py:43 | clicking submit button
+08/09/2023 02:17:21 PM |      INFO | test_createAccount.py:44 | saving customer info
+08/09/2023 02:17:21 PM |      INFO | test_createAccount.py:45 | user_registration validation start
+08/09/2023 02:17:22 PM |      INFO | test_createAccount.py:51 | test_registration_001 is pass
+08/09/2023 02:17:22 PM |      INFO | test_createAccount.py:60 | Ending of test_registration_001
