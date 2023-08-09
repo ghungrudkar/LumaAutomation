@@ -1,4 +1,4 @@
-pytest -s -v -m "sanity" --html=./Reports/report.html testCases/
+pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser firefox
 
 rem pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser firefox
 rem pytest -s -v -m "sanity or regression" --html=./Reports/report.html testCases/ --browser chrome

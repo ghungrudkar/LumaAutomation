@@ -1,0 +1,7 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:125 The version of chrome cannot be detected. Trying with latest driver version
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:23 Test_login_DDT_003 is starting 
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:24 Verifying Test_login_DDT_003
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:36 Clicking on login link
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:38 entering username
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:40 entering password
+[32mINFO    [0m Test_login_DDT_003:test_login_DDT.py:42 Clicking on submit button

@@ -43,7 +43,7 @@ class Test_CreateAccount:
         self.log.info("clicking submit button")
         self.log.info("saving customer info")
         self.log.info("user_registration validation start")
-        self.msg = self.driver.find_element(By.XPATH, "/html/body/div[1]/main/div[1]/div[2]/div/div/div").text
+        self.msg = self.driver.find_element(By.XPATH, "/html/body/div[2]/main/div[1]/div[2]/div/div/div").text
         if 'Thank you for registering with Main Website Store.' in self.msg:
             assert True == True
             self.driver.save_screenshot(".\\Screenshot\\test_registration_001_pass.png")
